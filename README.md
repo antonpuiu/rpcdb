@@ -1,7 +1,9 @@
 # Proiect RPC Client/Server Application
 
 **Autor:** Puiu Anton
+
 **Grupa:** 343C3
+
 **Sistem de operare target:** Linux
 
 ---
